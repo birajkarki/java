@@ -18,7 +18,7 @@ public class WeatherForecast {
         switch (weatherCode) {
             case 1:
                 System.out.println("It's a sunny day! Perfect for outdoor activities.");
-                break;
+                break; // break statement is used to exit the switch block
             case 2:
                 System.out.println("It's cloudy. Maybe it will rain later, but for now, it's fine.");
                 break;
